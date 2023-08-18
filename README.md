@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am Deniz Hürmeydan. I am a front-end web developer and a passionate student focused on continuous improvement. Every project is both a learning opportunity and a chance to push my limits. In the future, I would like to take myself and the web world to a better place by signing more projects.
+I am Deniz Hürmeydan. 
+I am a front-end web developer and a passionate student focused on continuous improvement. 
+Every project is both a learning opportunity and a chance to push my limits. :)
+In the future, I would like to take myself and the web world to a better place by signing more projects.
 
 <!--
 **denizhurmeydan/denizhurmeydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
